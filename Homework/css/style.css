@@ -91,13 +91,14 @@ article {
     width: 31.5%;
     margin-top: 25px;
     background: var(--color-bg-news);
-    transition: 0.4s;
+    
 }
 
 article a {
     display: block;
     padding: 10px;
     height: 100%;
+    transition: 0.4s;
 }
 
 article a:hover {
